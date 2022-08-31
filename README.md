@@ -4,6 +4,8 @@
 
 Calorie-Tracker is a web application designed to support UBC students’ dietary goals. Create your first food diary with Calorie-Tracker’s exclusive menu selection from UBC restaurants, and view your personal nutrient reports and food recommendations on UBC campus to make healthy food choices!
 
+https://calorie-tracker-prod-wfc97.ondigitalocean.app/
+
 
 <h3>Who is it for: </h3>
 <ul>
